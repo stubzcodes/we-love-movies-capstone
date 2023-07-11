@@ -15,6 +15,7 @@ Create a route that responds to the following request:
 GET /movies
 ```
 
+
 The response from the server should look like the following:
 
 ```json
