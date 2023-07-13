@@ -6,4 +6,16 @@ router.route("/")
     .get(controller.list)
     .all(methodNotAllowed);
 
+router.route("/:movieId")
+    .get(controller.read)
+    .all(methodNotAllowed);
+
+router.route("/:movieId/theaters")
+    .get(controller.getTheatersByMovieId)
+    .all(methodNotAllowed);
+
+router.route("/:movieId/reviews")
+    .get(controller.getReviewsByMovieId)
+    .all(methodNotAllowed);
+
     module.exports = router;
