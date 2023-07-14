@@ -88,7 +88,7 @@ exports.seed = function (knex) {
       description:
         "In 1944 Falangist Spain, a girl, fascinated with fairy-tales, is sent along with her pregnant mother to live with her new stepfather, a ruthless captain of the Spanish army. During the night, she meets a fairy who takes her to an old faun in the center of the labyrinth. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks. If she fails, she will never prove herself to be the true princess and will never see her real father, the king, again...",
       image_url:
-        "https://img.moviepostershop.com/pans-labyrinth-movie-poster-2006-1020395316.jpg",
+        "https://www.arthipo.com/image/cache/catalog/poster/movie/1-758/pfilm652-el-laberinto-del-fauno_25fc0ba0-movie-film-posteri-500x500h.webp",
     },
     {
       title: "Dial M for Murder",

@@ -19,6 +19,12 @@ Install We Love Movies with npm
 ```
     
 
+## Deployed Application
+
+[Frontend](https://we-love-movies-frontend-d5wr.onrender.com/)
+
+[Backend](https://we-love-movies-capstone-final.onrender.com/)
+
 ## Screenshots
 
 [Home Page](https://i.imgur.com/XZshtS3.jpg)
